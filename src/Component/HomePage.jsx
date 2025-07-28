@@ -32,12 +32,12 @@ function HomePage() {
           alt="Tropical beach destination"
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-black bg-opacity-30 flex items-center">
+        <div className="absolute inset-0  bg-opacity-30 flex items-center">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center md:text-left text-white">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 leading-tight tracking-wide animate-fade-in">
               Your Journey, <span className="text-teal-300">Our Expertise</span>
             </h1>
-            <p className="text-xl md:text-2xl mb-8 md:w-2/3 font-light">
+            <p className="animate-fade-in text-xl md:text-2xl mb-8 md:w-2/3 font-light">
               Stress-free travel and unforgettable events—crafted for you.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
@@ -57,7 +57,6 @@ function HomePage() {
           </div>
         </div>
       </section>
-
       {/* About Preview Section */}
       <section className="py-16 bg-beige-50 bg-gradient-to-br from-white to-teal-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -93,7 +92,6 @@ function HomePage() {
           </div>
         </div>
       </section>
-
       {/* Services Section */}
       <section className="py-16 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -152,7 +150,6 @@ function HomePage() {
           </div>
         </div>
       </section>
-
       {/* Why Choose Us Section */}
       <section className="py-16 bg-gradient-to-br from-teal-50 to-orange-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -207,7 +204,6 @@ function HomePage() {
           </div>
         </div>
       </section>
-
       {/* Testimonials Section */}
       <section className="py-16 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -273,7 +269,6 @@ function HomePage() {
           </div>
         </div>
       </section>
-
       {/* Call to Action Section */}
       <section className="py-16 bg-gradient-to-r from-teal-600 to-teal-500 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
