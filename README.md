@@ -59,10 +59,7 @@ To contribute:
    git checkout -b feature-name
    ```
 3. Commit your changes and push to your fork.
-4. Open a pull request to `[]`.
+4. Open a pull request to `[https://github.com/Anurag20075/Travel-Website.git]`.
 
 Please ensure your code follows the existing structure and is tested before submission.
 
-## License
-This project is licensed under the `[LICENSE TYPE]`.  
-See the LICENSE file for details.
