@@ -24,7 +24,7 @@ A key highlight is the **custom-built chatbot implemented entirely in React.js**
 1. **Clone the repository**
    ```bash
    git clone [REPO URL]
-   cd travel-website-frontend
+   cd travel-website
    ```
 2. **Install dependencies**
    ```bash
